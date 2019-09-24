@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "cml-chart-demo-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/cmlChartDemo/CmlChartDemoWebPart.js",
+          "manifest": "./src/webparts/cmlChartDemo/CmlChartDemoWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CmlChartDemoWebPartStrings": "lib/webparts/cmlChartDemo/loc/{locale}.js"
+  }
+}

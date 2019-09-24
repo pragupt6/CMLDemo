@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.9.1",
+    "libraryName": "cml-chart-demo",
+    "libraryId": "601c5559-9345-4dc2-b43e-31b4690e83e7",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cml-chart-demo-client-side-solution",
+    "id": "601c5559-9345-4dc2-b43e-31b4690e83e7",
+    "version": "1.1.1.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/cml-chart-demo.sppkg"
+  }
+}
