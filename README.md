@@ -1,4 +1,5 @@
 ## cml-chart-demo
+CML Charts statictics data for better decision making.
 
 This is where you include your WebPart documentation.
 
@@ -24,3 +25,5 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+
+
